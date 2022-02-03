@@ -1,0 +1,16 @@
+body{
+    background-color: linen;
+    padding-top: 10%;
+}
+h2{
+    text-align: center;
+    color: purple;
+}
+.container{
+    text-align: center;
+}
+#txt{
+    font-weight: 600;
+    font-size: 3rem;
+    color: black;
+}
